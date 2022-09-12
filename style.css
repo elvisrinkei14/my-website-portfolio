@@ -43,3 +43,18 @@ nav ul li a:hover{
     color: purple;
     transition: .4s;
 }
+.btn{background-color: purple;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 30px;
+    transition: 4s;
+
+}
+.btn:hover{
+    transform: scale(1.2);
+}
+
+    
